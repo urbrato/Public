@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureAreaBL", "FigureAreaBL\FigureAreaBL.csproj", "{2428A33A-2C04-4A9A-BBF4-A6ADC9EE58E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureAreaBL_UnitTest", "FigureAreaBL_UnitTest\FigureAreaBL_UnitTest.csproj", "{01472956-A58D-4B88-AEE6-2ED2466E58AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2428A33A-2C04-4A9A-BBF4-A6ADC9EE58E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2428A33A-2C04-4A9A-BBF4-A6ADC9EE58E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2428A33A-2C04-4A9A-BBF4-A6ADC9EE58E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01472956-A58D-4B88-AEE6-2ED2466E58AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01472956-A58D-4B88-AEE6-2ED2466E58AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01472956-A58D-4B88-AEE6-2ED2466E58AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01472956-A58D-4B88-AEE6-2ED2466E58AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

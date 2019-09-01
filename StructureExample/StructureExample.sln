@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGershman.PhotoLib", "AGershman.PhotoLib\AGershman.PhotoLib.csproj", "{9E09FE88-952E-4F18-953D-F3CC22542692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGershman.PhotoLib.WinForms.Controls", "AGershman.PhotoLib.WinForms.Controls\AGershman.PhotoLib.WinForms.Controls.csproj", "{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E09FE88-952E-4F18-953D-F3CC22542692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E09FE88-952E-4F18-953D-F3CC22542692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E09FE88-952E-4F18-953D-F3CC22542692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E09FE88-952E-4F18-953D-F3CC22542692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9BBD47-FCDB-4FCD-9B8A-0CA6B8E5FED5}
+	EndGlobalSection
+EndGlobal

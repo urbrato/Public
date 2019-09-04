@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGershman.PhotoLib", "AGers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGershman.PhotoLib.WinForms.Controls", "AGershman.PhotoLib.WinForms.Controls\AGershman.PhotoLib.WinForms.Controls.csproj", "{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGershman.Maths.Optimization", "AGershman.Maths.Optimization\AGershman.Maths.Optimization.csproj", "{9ACBF611-53FD-4D5B-BE23-1FD647306475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392C8C10-2EE8-4666-AFF4-2C1CDE83E30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACBF611-53FD-4D5B-BE23-1FD647306475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACBF611-53FD-4D5B-BE23-1FD647306475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACBF611-53FD-4D5B-BE23-1FD647306475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACBF611-53FD-4D5B-BE23-1FD647306475}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

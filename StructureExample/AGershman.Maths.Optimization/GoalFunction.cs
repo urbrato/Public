@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace AGershman.Maths.Optimization
 {
-    class IOptimizableByParams
-    {
-    }
+    public delegate double GoalFunction(double[] parameters);
 }
